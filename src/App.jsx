@@ -10,13 +10,8 @@ function App() {
     <>
 <h1>hi hello , jithin update........</h1>
 <h1>hi hello , jithin update........</h1>
-<h1>hi hello , jithin update........</h1>
-<h1>hi hello , jithin update........</h1>
-<h1>hi hello , jithin update........</h1>
-<h1>hi hello , ranjan update</h1>
-<h1>hi hello , ranjan update</h1>
-<h1>hi hello , ranjan update</h1>
-<h1>hi hello , ranjan update</h1>
+
+
     </>
   )
 }
