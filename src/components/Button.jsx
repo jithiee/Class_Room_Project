@@ -1,7 +1,8 @@
 import React from 'react'
+import './Button.css'
+
 
 const Button = () => {
-  return (
 
     <div>a project with module
     1.headmaster(admin)
@@ -28,7 +29,12 @@ const Button = () => {
     
     </div>
 
+
+  return (
+
   )
 }
 
 export default Button
+
+
