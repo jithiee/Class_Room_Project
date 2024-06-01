@@ -4,20 +4,15 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Button from './components/Button'
 
+
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-<h1>hi hello , jithin update........</h1>
-<h1>hi hello , jithin update........</h1>
-<h1>hi hello , jithin update........</h1>
-<Button/>
+    <>}
+  
+  <Register/>
 
-
-
-
-<div>hi hello....</div>
     </>
   )
 }
