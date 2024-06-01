@@ -1,0 +1,16 @@
+@keyframes border-color-change {
+    0% {
+      border-color: #e6ecef; /* Initial border color */ 
+    }
+    50% {
+      border-color: #6bcfeb; /* Intermediate border color */
+    }
+    100% {
+      border-color: #5185e7; /* Final border color */
+    }
+  }
+  
+  .animate-border {
+    animation: border-color-change 4s infinite;
+  }
+  
