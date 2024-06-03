@@ -1,8 +1,22 @@
 import React, { useEffect } from 'react';
+<<<<<<< Updated upstream
+=======
+import AOS from 'aos';
+// import 'aos/dist/aos.css';
+>>>>>>> Stashed changes
 import './Register.css';
 
 const Register = () => {
   
+<<<<<<< Updated upstream
+=======
+  // useEffect(() => {
+  //   AOS.init({
+  //     duration: 1200,
+  //   });
+  // }, []);
+
+>>>>>>> Stashed changes
   return (
     <>
     <div className="flex justify-center items-center h-screen ">
