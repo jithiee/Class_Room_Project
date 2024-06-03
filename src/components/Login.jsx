@@ -18,11 +18,11 @@ const Login = () => {
         </div>
         <div className="bg-[#0099ff] flex items-center justify-center w-full lg:w-1/2 p-6 lg:p-10">
           <div className="w-full max-w-md">
-            <h1 className="text-center text-2xl font-bold mb-6">Sign in</h1>
+            <h1 className="text-center text-2xl font-medium mb-6">Sign in</h1>
             <input type="text" placeholder="Username" className="block w-full pl-6 h-10 border border-solid border-black rounded-full bg-pink-100 mb-4" />
             <input type="password" placeholder="Password" className="block w-full pl-6 h-10 border border-solid border-black rounded-full bg-pink-100 mb-4" />
             <button className="bg-[#34D399] rounded-full w-full lg:w-32 h-10 mx-auto block mb-4 border border-2 animate-border">LOGIN</button>
-            <p className="text-center font-bold mb-4">Or Sign in with social platforms</p>
+            <p className="text-center font-sm mb-4">Or Sign in with social platforms</p>
             <div className="flex justify-center space-x-4">
               <button className="w-8 h-8 rounded-full border border-solid border-black flex items-center justify-center">
                 <img src="https://cdn-icons-png.flaticon.com/512/81/81341.png" alt="facebook" className="w-4 h-4" />
